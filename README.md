@@ -13,13 +13,12 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-beta-opal.vercel.app/api?username=thakurboy004&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.hergithub-readme-stats-beta-opal.vercel.appokuapp.com/?user=thakurboy004&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=thakurboy004&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats-beta-opal.vercel.app/api/top-langs/?username=thakurboy004&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=thakurboy004&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

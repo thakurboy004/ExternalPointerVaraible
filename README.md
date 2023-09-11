@@ -12,9 +12,10 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 # 📊 GitHub Stats:
-![thakurboy004's Stats](https://github-readme-stats.vercel.app/api?username=thakurboy004&theme=onedark&show_icons=true&hide_border=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=thakurboy004&theme=dark&hide_border=false)<br/>
-![thakurboy004's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thakurboy004&theme=onedark&show_icons=true&hide_border=false&layout=compact)
+![thakurboy004's Stats](https://github-readme-stats.vercel.app/api?username=thakurboy004&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![thakurboy004's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thakurboy004&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=thakurboy004&icon=0&color=0)](https://visitcount.itsvg.in)

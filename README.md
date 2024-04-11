@@ -1,3 +1,4 @@
+<img src="img_girl.jpg" alt="Profile Banner">
 # 💫 About Me:
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
